@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 
 -->
-- 🔭 I’m currently working on MERN web application
+- 🔭 I’m software engineer
 - 🌱 I’m currently learning full stack web development
 - 👯 I’m looking to collaborate on challenging project
+- 📫 How to reach me: https://rimjoudi.github.io/Personal-Website/
 
 
 ## 🌐 Socials:
